@@ -8,4 +8,4 @@ This repository contains projects related to Iron deficiency diagnosis in childr
   <img src="/mask3.png" width="32%">
 </p>
  <img src="/mask4.png"> 
-![DICE and IOU](/DICE_IOU.png)
+ <img src="/DICE_IOU.png"> 
